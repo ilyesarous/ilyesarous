@@ -30,7 +30,9 @@
 
 - 🔭 I’m currently studing computer science 😊
 - 🌱 I’m currently learning ReactJS / Node JS 🥰 & trying to create my own busness.
-- 👯 I’m looking for a summer internship<br><br>
+- 👯 I’m looking for a summer internship
+- 😄 Pronouns: he/him
+- ⚡ social work: I am a Team Leader in AIESEC THYNA<br><br> 
 
 <hr>
 
@@ -51,7 +53,6 @@
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">
-  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/firebase.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg">
 <br>
   <hr>
