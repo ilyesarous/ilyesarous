@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently studing computer science 😊
 - 🌱 I’m currently learning ReactJS / Node JS 🥰 & trying to create my own busness.
-- 👯 I’m looking for a summer internship **to improve my self <br><br>
+- 👯 I’m looking for a summer internship<br><br>
 
 <hr>
 
@@ -49,7 +49,7 @@
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg">
-  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/npm.svg"><br>
+  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/SQL.svg"><br>
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg">
 <br>
