@@ -45,11 +45,11 @@
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg">
    <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg">
+  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg"> 
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/angular.svg">  
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg">
-  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/SQL.svg"><br>
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg">
 <br>
