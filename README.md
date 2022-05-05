@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
 </p>
 <br>
@@ -30,9 +30,7 @@ p align="center">
 
 - 🔭 I’m currently working as an Intern in a web development company! 😊
 - 🌱 I’m currently learning ReactJS / Node JS 🥰 & trying to create my own busness.
-- 👯 I’m looking to collaborate with any **Open - Source projects**
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute! 😎 <br><br>
+- 👯 I’m looking to collaborate with any **Open - Source projects** <br><br>
 
 <hr>
 
@@ -61,11 +59,11 @@ p align="center">
 
 <p align = "center">
   
-[<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">](https://github.com/AhmedHammami7) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ahmed-hammami7)
-[<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/ahmed.hammami.99)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/ahmed_hammami_7)
-[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:ahmedhammami377@gmail.com)
+[<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">](https://github.com/ilyesarous) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ilyes-arous/)
+[<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/ilyes.arous.77/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/ilyes_arous10/)
+[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:ilyesarous9645@gmail.com)
 
 
 </p>
