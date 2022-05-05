@@ -28,9 +28,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-- 🔭 I’m currently working as an Intern in a web development company! 😊
+- 🔭 I’m currently studing computer science 😊
 - 🌱 I’m currently learning ReactJS / Node JS 🥰 & trying to create my own busness.
-- 👯 I’m looking to collaborate with any **Open - Source projects** <br><br>
+- 👯 I’m looking for a summer internship **to improve my self <br><br>
 
 <hr>
 
