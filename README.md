@@ -51,6 +51,7 @@
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">
+  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/firebase.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg">
 <br>
   <hr>
