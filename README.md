@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-df96edc03f68201220f336a430973602-lq" height="200"/>
 </p>
 <br>
 
