@@ -29,7 +29,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - 🔭 I’m currently studing computer science 😊
-- 🌱 I’m currently learning ReactJS / Node JS 🥰 & trying to create my own busness.
+- 🌱 I’m currently learning mobile development using flutter 🥰 & trying to create my own busness.
 - 👯 I’m looking for a summer internship
 - 😄 Pronouns: he/him
 - ⚡ social work: I am a Team Leader in AIESEC THYNA<br><br> 
