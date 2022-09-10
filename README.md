@@ -46,7 +46,9 @@
   <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png>
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg">
-   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg">
+  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg">
+  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/dart.svg">
+  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flutter.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg"> 
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/angular.svg">  
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg">
