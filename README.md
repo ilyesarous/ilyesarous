@@ -16,7 +16,7 @@
 <p align="center">
   <em>
     Hello, I am Ilyes Arous <b>Computer Science Student </b> at the <a href="http://www.fss.rnu.tn"> <b> FSS</b>,<a href="https://univ-sfax.tn/"> <b> University Of Sfax</b>,Sfax</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web developer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>developer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Photography</b> and <b>Video Edeting</b>.
   </em> 
   <br>
