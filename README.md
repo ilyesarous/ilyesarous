@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently studing computer science 😊
 - 🌱 I’m currently learning mobile development using flutter 🥰 & trying to create my own busness.
-- 👯 I’m looking for a summer internship
+- 👯 I’m looking for an internship
 - 😄 Pronouns: he/him
 - ⚡ social work: I am a Team Leader in AIESEC THYNA<br><br> 
 
