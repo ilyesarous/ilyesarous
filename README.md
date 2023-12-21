@@ -15,26 +15,16 @@
 
 <p align="center">
   <em>
-    Hello, I am Ilyes Arous <b>Computer Science Student </b> at the <a href="http://www.fss.rnu.tn"> <b> FSS</b>,<a href="https://univ-sfax.tn/"> <b> University Of Sfax</b>,Sfax</a>. <br>
+    Hello, I am Ilyes Arous <b>Computer Science Student </b> at the <a href="https://esprit.tn/"> <b>ESPRIT</b>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>developer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Photography</b> and <b>Video Edeting</b>.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Best Quote : "Be the change you want to be!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Best Quote : "Be the change you want to see!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br>
 <hr>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-- 🔭 I’m currently studing computer science 😊
-- 🌱 I’m currently learning mobile development using flutter 🥰 & trying to create my own busness.
-- 👯 I’m looking for an internship
-- 😄 Pronouns: he/him
-- ⚡ social work: I am a Team Leader in AIESEC THYNA<br><br> 
-
-<hr>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
@@ -66,7 +56,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ilyes-arous/)
 [<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/ilyes.arous.77/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/ilyes_arous10/)
-[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:ilyesarous9645@gmail.com)
+[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:ilyes.arous@esprit.tn)
 
 
 </p>
