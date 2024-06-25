@@ -8,8 +8,7 @@ I'm Ilyes from Tunisia, and I am a full stack-developer. I really enjoy learning
 Next Js, React, Spring Boot, Nest Js
 
 <p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesarous&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesarous&show_icons=true&locale=en&layout=compact&theme=dark" width="500px" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ilyesarous&show_icons=true&locale=en&theme=dark" alt="ovi" /></p>
 <br><br><br><br><br>
 
