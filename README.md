@@ -7,8 +7,9 @@ I'm Ilyes from Tunisia, and I am a full stack-developer. I really enjoy learning
 ### Skills 
 Next Js, React, Spring Boot, Nest Js, Flutter
 
+### Stats
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesarous&show_icons=true&locale=en&layout=compact&theme=dark" width="350px" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ilyesarous&show_icons=true&locale=en&theme=dark" width="430px" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ilyesarous&show_icons=true&locale=en&theme=dark" width="450px" alt="ovi" /></p>
 </p>
 
