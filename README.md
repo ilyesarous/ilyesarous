@@ -7,7 +7,7 @@ Next Js, React, Spring Boot, Nest Js, Flutter
 
 ![Html](https://img.shields.io/badge/Html-%230175C2.svg?style=for-the-badge&logo=Html&logoColor=white)
 ![Css](https://img.shields.io/badge/Css-%230175C2.svg?style=for-the-badge&logo=Css&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/tailwind-css-%230175C2.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![tailwind](https://img.shields.io/badge/tailwind-%230175C2.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-%230095D5.svg?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
