@@ -3,7 +3,8 @@
 I'm Ilyes from Tunisia, and I am a full stack-developer. I am a young enthusiast who constantly develops his skills and wants to grow professionally. My life experience taught me how to become a team player, a problem solver and increased my capacity to adapt to various situations. I really enjoy learning languages like Java, JavaScript and frameworks like Nextjs, Nestjs and Spring Boot, as well as working with Flutter. I also enjoy wireframing, ui, ux, and design in general.
 # Skills and Stats
 ### Skills 
-<div align="centre">
+<div align="center">
+  
 ![Html](https://img.shields.io/badge/Html-%230175C2.svg?style=for-the-badge&logo=Html&logoColor=white)
 ![Css](https://img.shields.io/badge/Css-%230175C2.svg?style=for-the-badge&logo=Css&logoColor=white)
 ![tailwind](https://img.shields.io/badge/tailwind-%230175C2.svg?style=for-the-badge&logo=tailwind&logoColor=white)
@@ -22,7 +23,6 @@ I'm Ilyes from Tunisia, and I am a full stack-developer. I am a young enthusiast
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgresSql](https://img.shields.io/badge/PostgresSql-%234ea94b.svg?style=for-the-badge&logo=postgressql&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-</div>
 ### Stats
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesarous&show_icons=true&layout=compact&locale=en&theme=github_dark" width="350px" alt="ovi" /></p>
