@@ -4,7 +4,7 @@ I'm Ilyes from Tunisia, and I am a full stack-developer. I am a young enthusiast
 # Skills and Stats
 ### Skills 
 Next Js, React, Spring Boot, Nest Js, Flutter
-<div align="center">
+
 ![Html](https://img.shields.io/badge/Html-%230175C2.svg?style=for-the-badge&logo=Html&logoColor=white)
 ![Css](https://img.shields.io/badge/Css-%230175C2.svg?style=for-the-badge&logo=Css&logoColor=white)
 ![scss](https://img.shields.io/badge/scss-%230175C2.svg?style=for-the-badge&logo=scss&logoColor=white)
@@ -17,7 +17,6 @@ Next Js, React, Spring Boot, Nest Js, Flutter
 ![Node js](https://img.shields.io/badge/Node-F38020?style=for-the-badge&logo=Node&logoColor=white)
 ![React native](https://img.shields.io/badge/ReactNative-%23FF9900.svg?style=for-the-badge&logo=react-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  <p align="center">
 
 ### Stats
 <p align="center">
