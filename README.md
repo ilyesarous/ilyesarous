@@ -23,6 +23,8 @@ I'm Ilyes from Tunisia, and I am a full stack-developer. I am a young enthusiast
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgresSql](https://img.shields.io/badge/PostgresSql-%234ea94b.svg?style=for-the-badge&logo=postgressql&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 ### Stats
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesarous&show_icons=true&layout=compact&locale=en&theme=github_dark" width="350px" alt="ovi" /></p>
