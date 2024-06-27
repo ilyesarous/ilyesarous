@@ -29,6 +29,6 @@ I'm Ilyes from Tunisia, and I am a full stack-developer. I am a young enthusiast
 ### Stats
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesarous&show_icons=true&layout=compact&locale=en&theme=tokyonight" width="350px" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ilyesarous&show_icons=true&locale=en&theme=tokyonight&background=1F222E" width="450px" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ilyesarous&show_icons=true&locale=en&theme=tokyonight" width="450px" alt="ovi" /></p>
 </p>
 
