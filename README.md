@@ -3,8 +3,7 @@
 I'm Ilyes from Tunisia, and I am a full stack-developer. I am a young enthusiast who constantly develops his skills and wants to grow professionally. My life experience taught me how to become a team player, a problem solver and increased my capacity to adapt to various situations. I really enjoy learning languages like Java, JavaScript and frameworks like Nextjs, Nestjs and Spring Boot, as well as working with Flutter. I also enjoy wireframing, ui, ux, and design in general.
 # Skills and Stats
 ### Skills 
-Next Js, React, Spring Boot, Nest Js, Flutter
-
+<div align="centre">
 ![Html](https://img.shields.io/badge/Html-%230175C2.svg?style=for-the-badge&logo=Html&logoColor=white)
 ![Css](https://img.shields.io/badge/Css-%230175C2.svg?style=for-the-badge&logo=Css&logoColor=white)
 ![tailwind](https://img.shields.io/badge/tailwind-%230175C2.svg?style=for-the-badge&logo=tailwind&logoColor=white)
@@ -17,12 +16,13 @@ Next Js, React, Spring Boot, Nest Js, Flutter
 ![Nestjs](https://img.shields.io/badge/nest-%23ED8B00.svg?style=for-the-badge&logo=nest) 
 ![Node js](https://img.shields.io/badge/Node-F38020?style=for-the-badge&logo=Node&logoColor=white)
 ![React native](https://img.shields.io/badge/ReactNative-%23FF9900.svg?style=for-the-badge&logo=react-aws&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%23FF9900.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgresSql](https://img.shields.io/badge/PostgresSql-%234ea94b.svg?style=for-the-badge&logo=postgressql&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+</div>
 ### Stats
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesarous&show_icons=true&layout=compact&locale=en&theme=github_dark" width="350px" alt="ovi" /></p>
