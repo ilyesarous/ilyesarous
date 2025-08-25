@@ -1,6 +1,12 @@
-![I am a full-stack developer](https://media.licdn.com/dms/image/D4D16AQGG16AxPMagug/profile-displaybackgroundimage-shrink_350_1400/0/1719330300059?e=1724889600&v=beta&t=__9ZmKg7fy1_X2juCRRI27Tqkibvlipdb0dxxoain38)
+![I am a Software Engineer]([https://media.licdn.com/dms/image/D4D16AQGG16AxPMagug/profile-displaybackgroundimage-shrink_350_1400/0/1719330300059?e=1724889600&v=beta&t=__9ZmKg7fy1_X2juCRRI27Tqkibvlipdb0dxxoain38](https://media.licdn.com/dms/image/v2/D4D16AQGG16AxPMagug/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719330300059?e=1758758400&v=beta&t=6oqK2x73SvkKJ1uUxWGARfm_UCQ7dXFu9MS12-yY3Vw))
 # Hi there 👋, I'm Ilyes
-I'm Ilyes from Tunisia, and I am a full stack-developer. I am a young enthusiast who constantly develops his skills and wants to grow professionally. My life experience taught me how to become a team player, a problem solver and increased my capacity to adapt to various situations. I really enjoy learning languages like Java, JavaScript and frameworks like Nextjs, Nestjs and Spring Boot, as well as working with Flutter. I also enjoy wireframing, ui, ux, and design in general.
+I'm Ilyes, a final-year Software Engineering student from Tunisia with a strong focus on full-stack development and cloud computing. I’m passionate about building scalable, impactful software and continuously expanding my technical and creative skill set.
+
+My experience spans several technologies, including Java, JavaScript, and TypeScript, and frameworks like Spring Boot, NestJS, Next.js, and React. I've also worked with Flutter for mobile app development and have a growing interest in DevOps, CI/CD, and cloud infrastructure, particularly using tools like Docker, Kubernetes, and OpenStack.
+
+Beyond coding, I value good design and usability. I have experience in wireframing and UI/UX principles, which helps me bridge the gap between functional and user-friendly applications.
+
+I thrive in collaborative environments, enjoy problem-solving, and am always open to new challenges—whether in startups, internships, or larger engineering teams. Let’s connect if you’re interested in building something meaningful together!
 # Skills and Stats
 ### Skills 
 <div align="center">
